@@ -1,0 +1,19 @@
+# main links links
+main:
+  - title: "Useful links"
+    url: "#"
+    newtab: false
+    children:
+    - title: "European Union Agency for Rail"
+      url: "http://www.era.europa.eu/Pages/Home.aspx"
+    - title: "CCS TSI Baselines"
+      url: "http://www.era.europa.eu/Core-Activities/ERTMS/Pages/Current-Legal-Reference.aspx"
+    - title: "RSSB"
+      url: "http://www.rssb.co.uk/"
+    - title: "Digital Railway"
+      url: "http://digitalrailway.co.uk/"
+  - title: Contact us
+    url: "contact/"
+    newtab: false
+  - title: About
+    url: "about/"
